@@ -31,19 +31,3 @@ It allows users to **create, read, update, and delete employee records** through
 - **HTTP Requests:** Axios / Fetch API  
 - **Other:** React Components for Employee Form & Employee List  
 
----
-
-## Project Structure
-
-### Backend (`Employee-Management-Backend`)
-src/
-├─ main/java/com/EmployeeManagement
-│ ├─ Config/ # CORS configuration
-│ ├─ Controller/ # REST API controllers
-│ ├─ DTO/ # Data Transfer Objects
-│ ├─ Entity/ # Employee entity
-│ ├─ Exceptions/ # Custom exceptions & global handlers
-│ ├─ Mapper/ # Manual DTO to Entity mapping
-│ ├─ Repository/ # JPA Repositories
-│ ├─ Service/ # Service interfaces
-│ └─ Service/Impl/ # Service implementations
