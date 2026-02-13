@@ -22,7 +22,7 @@ It allows users to **create, read, update, and delete employee records** through
 ### Backend
 - **Language:** Java  
 - **Framework:** Spring Boot  
-- **Database:** H2 / MySQL (depending on configuration)  
+- **Database:** H2   
 - **Other:** Maven, JPA, RESTful API, Exception Handling  
 
 ### Frontend
